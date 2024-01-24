@@ -1,8 +1,8 @@
 /* Autora do código: Cássia Oliveira dos Santos;
 Professor: Cássio David Borralho;
 Disciplina: Laborátorio de Programação;
-Curso: Sistemas de Informação - 4 semestre;
-Instituição: Universidade Federal do Oeste do Pará - Sanatrém
+Curso: Sistemas de Informação - 4º semestre;
+Instituição: Universidade Federal do Oeste do Pará - Santarém
 
 
 Este pequeno programa exemplifica o paradgma de programação imperativo, também chamado de procedural,
