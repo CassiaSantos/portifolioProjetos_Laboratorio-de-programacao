@@ -23,7 +23,7 @@ double calculaFatorial(int numero) {
 
 void main() {
     
-    int fatorialDe  = -2; 
+    int fatorialDe  = 5; 
     double resultadoFatorial = calculaFatorial(fatorialDe);
     
     //printf("\n\nDigite o número que deseja obter o fatorial: ");
