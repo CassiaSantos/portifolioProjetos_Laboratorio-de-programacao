@@ -3,13 +3,13 @@ Professor: Cássio David Borralho Pinheiro;
 Curso: Sistemas de Informação - Turma de 2022;
 
 
-Este lgoritmo recebe uma string e um caractere e retorna o número de vezes que esse caractere aparece na string.
-Com ele, quero apresentar características do paradigma imperativo, onde o passo a passo da solução do problema é
-declarado pelo programador no código. Escolhi fazer a função conta_caractere pois acho que fica mais organizado 
-a escrita do código. É nela (linhas 15-20) que se pode visualizar a declaração do passo a passo.'''
+Este algoritmo recebe uma string e um caractere e retorna o número de vezes que esse caractere aparece na string.
+Com ele, quero apresentar características do paradigma imperativo,  onde o passo a passo da solução do problema é 
+especificado pelo programador no código para a máquina. Escolhi fazê-lo na função conta_caractere() pois acho que 
+fica mais organizado a escrita do código. É nela (linhas 15-20 do arquivo) que se pode visualizar a processo de 
+contagem dos caracteres.'''
 
 # ########################### PARADIGMA IMPERATIVO ###########################
-
 
 #função que fará o calculo da ocorrência de determinado caracter na string:
 def conta_caractere(string, caractere):
