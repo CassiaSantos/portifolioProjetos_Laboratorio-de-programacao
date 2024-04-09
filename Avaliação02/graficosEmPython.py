@@ -1,8 +1,14 @@
-"""A partir de um programa em Python criado para apresentar um gráfico de dados, tente reescrevê-lo 
+"""UNIVERSIDADE FEDERAL DO OESTE DO PARÁ
+Curso: Sistemas de Informação
+Professor: Cássio David Pinheiro
+Aluna: Cássia Oliveira dos Santos
+
+A partir de um programa em Python criado para apresentar um gráfico de dados, neste código irei reescrevê-lo 
 usando as diretivas da programação funcional com foco na manipulação dos dados."""
 
-"""import matplotlib.pyplot as plt
-
+"""
+#código que será sobrescrito no paradigma funcional:
+import matplotlib.pyplot as plt
 def criar_grafico(dados):
     x = [item[0] for item in dados]
     y = [item[1] for item in dados]
