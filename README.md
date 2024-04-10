@@ -20,3 +20,10 @@ Veja o código nas imagens abaixo:
 <h3>Paradigma declarativo:</h3>
 <p>Com este algoritmo, quero apresentar características do paradigma DECLARATIVO, que tem como foco a solução do problema, sem se preocupar como o passo a passo será implementado pelo computador. Essa caraterística pode ser vista na linha 25 do arquivo, através da chamada da função count(), nativa de Python, pois ela conta quantas vezes um determinado substring (ou caractere) ocorre na string principal e retorna o resultado. Logo, não é preciso que o programador especifique o passo a passo, somente chame a função.</p>
 <img src="ImagensReadme/paradigmaDeclarativo_01ava.png">
+
+<h2>2ª Avaliação:</h2>
+<p>Para a segunda avaliação, busquei implementar algoritmos de temas abordados em sala de aula</p>
+<img src="" alt="" title="clique nessa foto para ir para o arquio do código"> 
+<img src="" alt="" title="clique nessa foto para ir para o arquio do código">
+<img src="" alt="" title="clique nessa foto para ir para o arquio do código"> 
+<img src="" alt="" title="clique nessa foto para ir para o arquio do código"> 
