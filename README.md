@@ -23,7 +23,7 @@ Veja o código nas imagens abaixo:
 
 <h2>2ª Avaliação:</h2>
 <p>Para a segunda avaliação, busquei implementar algoritmos de temas abordados em sala de aula</p>
-<img src="" alt="" title="clique nessa foto para ir para o arquio do código"> 
-<img src="" alt="" title="clique nessa foto para ir para o arquio do código">
+<img src="ImagensReadme/buscaBinaria1_paradigmaImperativo_02ava.png" alt="" title="clique nessa foto para ir para o arquio do código"> 
+<img src="ImagensReadme/buscaBinaria2_paradigmaImperativo_02ava.png" alt="" title="clique nessa foto para ir para o arquio do código">
 <img src="" alt="" title="clique nessa foto para ir para o arquio do código"> 
 <img src="" alt="" title="clique nessa foto para ir para o arquio do código"> 
