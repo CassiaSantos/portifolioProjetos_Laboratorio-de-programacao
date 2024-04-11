@@ -22,8 +22,17 @@ Veja o código nas imagens abaixo:
 <img src="ImagensReadme/paradigmaDeclarativo_01ava.png">
 
 <h2>2ª Avaliação:</h2>
-<p>Para a segunda avaliação, busquei implementar algoritmos de temas abordados em sala de aula</p>
-<img src="ImagensReadme/buscaBinaria1_paradigmaImperativo_02ava.png" alt="" title="clique nessa foto para ir para o arquio do código"> 
-<img src="ImagensReadme/buscaBinaria2_paradigmaImperativo_02ava.png" alt="" title="clique nessa foto para ir para o arquio do código">
-<img src="" alt="" title="clique nessa foto para ir para o arquio do código"> 
-<img src="" alt="" title="clique nessa foto para ir para o arquio do código"> 
+<p>Para a segunda avaliação, busquei implementar algoritmos de temas abordados em sala de aula nos paradigmas estudados.</p>
+<h3>Problemas em Paradigmas Imperativos: Estruturas de Dados</h3>
+<p>O algoritmo que mais gostei de desenvolver foi o de busca binária em C utilizando o paradigma imperativo. Nele, é passado um vetor ordenado, seu tamanho e o valor que se deseja pesquisar no vetor (chave). Assim, ele faz chegagens do valor mais próximo do meio do vetor em busca da chave e alterando o intervalo de busca conforme o valor do meio do vetor. Você pode ver código clicando nas 2 próximas fotos:</p>
+<a href="https://github.com/CassiaSantos/portifolioProjetos_Laboratorio-de-programacao/blob/main/Avalia%C3%A7%C3%A3o02/buscaBinariaEmC.c"><img src="ImagensReadme/buscaBinaria1_paradigmaImperativo_02ava.png" alt="print do código" title="clique nessa foto para ir para o arquio do código"></a>
+<a href="https://github.com/CassiaSantos/portifolioProjetos_Laboratorio-de-programacao/blob/main/Avalia%C3%A7%C3%A3o02/buscaBinariaEmC.c"><img src="ImagensReadme/buscaBinaria2_paradigmaImperativo_02ava.png" alt="print do código" title="clique nessa foto para ir para o arquio do código"></a>
+
+<h3>Problemas em Paradigmas Funcionais: Processamento de Strings</h3>
+<p>Nesse algoritmo, busco calcular a quantidade de vogais, consoantes, espaço em branco e total de caracteres inseridos manualmente no código através do paradigma imperativo sem utilizar metódos da biblioteca string.h para exibir diretamente no console.</p>
+<a href="https://github.com/CassiaSantos/portifolioProjetos_Laboratorio-de-programacao/blob/main/Avalia%C3%A7%C3%A3o02/vogaisConsoantesTamanho.c"><img src="ImagensReadme/problemasImperativosComString1.png" alt="print do código" title="clique nessa foto para ir para o arquio do código"></a> 
+<a href="https://github.com/CassiaSantos/portifolioProjetos_Laboratorio-de-programacao/blob/main/Avalia%C3%A7%C3%A3o02/vogaisConsoantesTamanho.c"><img src="ImagensReadme/problemasImperativosComString2.png" alt="print do código" title="clique nessa foto para ir para o arquio do código"></a> 
+
+<h3>Problemas em Paradigmas Funcionais: Geometria Computacional</h3>
+<p>Nesse algoritmo, procuro reescrever para o paradigma funcional um programa em Python criado para apresentar um gráfico de dados. Aqui, o foco é na manipulação dos dados e não na exibição do gráfico.</p>
+<a href="https://github.com/CassiaSantos/portifolioProjetos_Laboratorio-de-programacao/blob/main/Avalia%C3%A7%C3%A3o02/graficosEmPython.py"><img src="ImagensReadme/computacaoGraficaComPythonImperativo.png" alt="" title="clique nessa foto para ir para o arquio do código"></a> 
