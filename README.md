@@ -35,4 +35,5 @@ Veja o código nas imagens abaixo:
 
 <h3>Problemas em Paradigmas Funcionais: Geometria Computacional</h3>
 <p>Nesse algoritmo, procuro reescrever para o paradigma funcional um programa em Python criado para apresentar um gráfico de dados. Aqui, o foco é na manipulação dos dados e não na exibição do gráfico.</p>
-<a href="https://github.com/CassiaSantos/portifolioProjetos_Laboratorio-de-programacao/blob/main/Avalia%C3%A7%C3%A3o02/graficosEmPython.py"><img src="ImagensReadme/computacaoGraficaComPythonImperativo.png" alt="" title="clique nessa foto para ir para o arquio do código"></a> 
+<a href="https://github.com/CassiaSantos/portifolioProjetos_Laboratorio-de-programacao/blob/main/Avalia%C3%A7%C3%A3o02/graficosEmPython.py"><img src="ImagensReadme/computacaoGraficaComPythonImperativo1.png" alt="" title="clique nessa foto para ir para o arquio do código"></a>
+<a href="https://github.com/CassiaSantos/portifolioProjetos_Laboratorio-de-programacao/blob/main/Avalia%C3%A7%C3%A3o02/graficosEmPython.py"><img src="ImagensReadme/computacaoGraficaComPythonImperativo2.png" alt="" title="clique nessa foto para ir para o arquio do código"></a> 
